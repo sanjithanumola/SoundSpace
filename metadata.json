@@ -1,0 +1,6 @@
+{
+  "name": "SoundSpace - Real-Time Audio Visualizer",
+  "description": "Transform music and live microphone input into stunning audio-reactive visual art in real time with 8 distinct visualizer modes, custom themes, and screenshot export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
